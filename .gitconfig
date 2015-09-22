@@ -5,6 +5,7 @@
 
    # branch
   b = branch -v                     # branch (verbose)
+  bd = branch -D                    # delete branch
 
   # commit
   cm = commit -m                    # commit with message
